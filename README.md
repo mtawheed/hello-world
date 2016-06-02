@@ -1,4 +1,4 @@
 # hello-world
 
-my name is MOhamed Tawheed
+my name is Mohamed Tawheed
 I am learning github
